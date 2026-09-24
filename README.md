@@ -20,4 +20,4 @@ A Python program that evaluates the strength of a password based on its length a
 ## How to Run
 
 ```bash
-python password_checker.py
+python password.py
